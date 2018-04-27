@@ -1,0 +1,30 @@
+<html>
+<head>
+<TITLE></TITLE>
+<HTA:APPLICATION ID="oHTA"
+APPLICATIONNAME="myApp"
+BORDER="thick"
+BORDERSTYLE="normal"
+CAPTION="yes"
+ICON="edhot.ico"
+MAXIMIZEBUTTON="yes"
+MINIMIZEBUTTON="yes"
+SHOWINTASKBAR="yes"
+SINGLEINSTANCE="yes"
+SYSMENU="yes"
+VERSION="1.0"
+CONTEXTMENU="yes" 
+SCROLLFLAT="no" 
+SCROLL="yes"
+WINDOWSTATE="normal"
+INNERBORDER="no"
+NAVIGABLE="no"
+>
+</head>
+<body>
+<script>
+var WShell = new ActiveXObject("WScript.Shell");
+WShell.Exec("notepad.exe");
+</script>
+</body>
+</html>
