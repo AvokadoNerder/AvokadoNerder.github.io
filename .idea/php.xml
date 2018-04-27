@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/myAdmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/myAdmin/vendor/paragonie/random_compat" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/myAdmin/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
